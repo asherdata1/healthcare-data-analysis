@@ -5,8 +5,7 @@ Capstone healthcare analytics project showcasing SQL, MS Fabric, and Power BI. B
 
 ## 🔹 Executive Summary
 End-to-end healthcare analytics project using **Microsoft Fabric (Lakehouse + Dataflow Gen2 + Semantic Model)**, **SQL/Power Query (M)**, **DAX**, and **Power BI**.  
-I designed a star schema, implemented data-quality and privacy controls, and built a **5-page interactive dashboard** to explore patient, doctor, hospital, condition, and treatment patterns.  
-*(This project was completed individually.)*
+I designed a star schema, implemented data-quality and privacy controls, and built a **5-page interactive dashboard** to explore patient, doctor, hospital, condition, and treatment patterns.
 
 ---
 
