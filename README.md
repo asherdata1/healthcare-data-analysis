@@ -91,7 +91,7 @@ I designed a star schema, implemented data-quality and privacy controls, and bui
 ### Doctors View
 ![Doctors View](assets/dashboard-doctors.png)
 
-### Doctors View
+### Hospitals View
 ![Hospitals View](assets/dashboard-hospitals.png)
 
 ### Conditions View
@@ -100,10 +100,10 @@ I designed a star schema, implemented data-quality and privacy controls, and bui
 ### Treatments View
 ![Treatments View](assets/dashboard-treatments.png)
 
-### Fabric Dataflow
+### Fabric Dataflow Transformations
 ![Fabric Dataflow](assets/fabric-dataflow.png)
 
-### Fabric Lakehouse
+### Fabric Lakehouse Storage
 ![Fabric Lakehouse](assets/fabric-lakehouse.png)
 
 ### Fabric Semantic Model
